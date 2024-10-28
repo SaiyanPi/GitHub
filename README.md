@@ -22,4 +22,4 @@ Some of the git commands are
 * git checkout
 * git branch
 
-![github icon](https://images.app.goo.gl/KQovnckgFoNBqQgD9)
+![github icon](https://octodex.github.com/images/mona-the-rivetertocat.png)
